@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-development = True
+development = not True
 
 if development:
     RELATIVE_URLS = False
@@ -53,7 +53,7 @@ CUSTOM_CSS = 'theme/css/custom.css'
 
 # Pelican Theme specials
 
-DISPLAY_CATEGORIES_ON_MENU = not False
+DISPLAY_CATEGORIES_ON_MENU = True
 DEFAULT_CATEGORY = 'Actualités'
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True

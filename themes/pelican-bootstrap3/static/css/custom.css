@@ -1,13 +1,13 @@
 /* Global */
 
 .container {
-    max-width: 70em !important;
+    max-width: 100em !important;
 }
 
 /* Menu */
 
-.nav li a {
-    padding: 10px 8px !important;
+.nav>li>a {
+    padding: 14px 8px !important;
 }
 
 /* Titles */
