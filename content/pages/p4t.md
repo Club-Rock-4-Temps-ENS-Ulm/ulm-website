@@ -15,7 +15,7 @@ Au programme :
 
 ## Professeur-e-s
 
-Nous avons invité de nombreux.ses professeur.e.s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion :
+Nous avons invité de nombreux.ses professeur-e-s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion :
 
 * [Alexandra et Olivier](/alexandra-et-olivier.html),
 * [Natacha et Paul](/natacha-et-paul.html),
@@ -52,6 +52,8 @@ Notre JnJ comporte plusieurs divisions. Les documents pour compétieur-rice-s po
 
 
 # Billeterie
+
+/!\ MàJ raisons sanitaires : l'événement de 2020 a été annulé.
 
 La billetterie est accessible sur [HelloAsso](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2020).
 

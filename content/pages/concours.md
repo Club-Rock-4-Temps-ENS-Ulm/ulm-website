@@ -1,12 +1,20 @@
 Title: Concours
 page-order: 6
 
+# Juges du club
+
+Les professeurs du club ont développé une expérience de juge dans des formats de compétition variés. 
+
+Le Club de l’ENS est favorable à l’organisation de compétitions avec des jurys pluralistes, dont les juges sont originaires de différentes écoles de 4 Temps. 
+
+Les professeur-e-s suivant-e-s sont disposé-e-s à juger des compétitions extérieures, auxquelles iels pourront apporter l'expérience de notre club.
+
 # Concours de chorégraphies
 
 ## Présentation
 Depuis 2017, le club organise un concours de chorégraphie *entièrement gratuit et ouvert à tous les niveaux*, de débutant à confirmé ! 
 
-Initialement tenu à l’occasion des 48h des Arts de l’ENS, il est l’occasion pour les danseur.euse.s de réaliser un travail chorégraphique et de le présenter devant un public et un jury composé de danseur.euse.s expérimenté.e.s du club.
+Initialement tenu à l’occasion des 48h des Arts de l’ENS, il est l’occasion pour les danseur.euse.s de réaliser un travail chorégraphique et de le présenter devant un public et un jury composé de danseur.euse.s expérimenté-e-s du club.
 
 Cette année, le concours aura lieu le vendredi 3 avril 2020 en SEA.
 
@@ -32,27 +40,17 @@ Le vendredi 3 avril 2020 à 20h30 en SEA: [Événement Facebook](https://www.fac
 Inscriptions ouvertes jusqu’au 25 mars 2020, par mail à concours [at] ulm.rock4temps [dot] fr
 
 
-# Juges du club
-
-Les professeurs du club ont développé une expérience de juge dans des formats de compétition variés. 
-
-Le Club de l’ENS est favorable à l’organisation de compétitions avec des jurys pluralistes, dont les juges sont originaires de différentes écoles de 4 Temps. 
-
-Les professeur-e-s suivant sont intéressés (en fonction de leur disponibilité) par l’opportunité de juger dans des compétitions extérieures où ils pourront mettre leurs capacités d’analyse et leur connaissance de notre école de 4Temps au service de jurys pluralistes. 
-
 # Vidéos de l'édition 2019 
 
 Voir la [playlist YouTube](https://www.youtube.com/playlist?list=PLTxyPxfCIVnvRxr7Z3aP_Z3OiGFELC-8M) pour l'ensemble des vidéos.
 
-Les vidéos individuelles pour chaque couple de participant-e-s:
+Les vidéos individuelles pour chaque couple de participant-e-s :
 
 * 1ère place : [Héloïse Vallerio](/heloise.html) et Nikita Kavokine
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XKS61IwXB3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 2ème place : [Albane Desseaux](/albane-et-philippe.html) et Lorenzo Falconieri
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_LEzr9oJqo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 3ème place : Justine Gadon-Ferreira et [Yann Lopez](/alienor-et-yann.html)
 

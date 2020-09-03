@@ -2,6 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+development = True
+
+if development:
+    RELATIVE_URLS = False
+else :
+    SITEURL = 'http://ulm.rock4temps.fr/public/output/'
+
+
 AUTHOR = 'R4T ENS Ulm'
 SITENAME = 'Club Rock 4 Temps ENS Ulm'
 
@@ -13,8 +21,6 @@ BANNER = 'images/helo_nikita.jpg'
 BANNER_SUBTITLE = """Bienvenue ! <br/> 
 Retrouvez sur cette page les dernières activités du club, mise à jour hebdomadaire."""
 
-SITEURL = ''
-#SITEURL = 'http://ulm.rock4temps.fr/public/output/'
 
 PATH = 'content'
 
@@ -78,6 +84,3 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 6
 
-# Uncomment following line if you want document-relative URLs when developing
-
-RELATIVE_URLS = False
