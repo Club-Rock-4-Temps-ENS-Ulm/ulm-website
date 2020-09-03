@@ -137,6 +137,13 @@
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
+                {% if DISPLAY_CATEGORIES_ON_MENU %}
+                {% for cat, null in categories %}
+                <li {% if cat == category %}class="active"{% endif %}>
+                    <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat | capitalize }}</a>
+                </li>
+                {% endfor %}
+                {% endif %}
                 {% if not PAGES_SORT_ATTRIBUTE -%}
                     {% set PAGES_SORT_ATTRIBUTE = 'basename' %}
                 {%- endif %}
@@ -157,13 +164,6 @@
                           </a></li>
                         {% endif %}
                       {% endfor %}
-                {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                    {% for cat, null in categories %}
-                        <li {% if cat == category %}class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat | capitalize }}</a>
-                        </li>
-                    {% endfor %}
                 {% endif %}
             </ul>
             <ul class="nav navbar-nav navbar-right">

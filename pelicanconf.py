@@ -53,7 +53,7 @@ CUSTOM_CSS = 'theme/css/custom.css'
 
 # Pelican Theme specials
 
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = not False
 DEFAULT_CATEGORY = 'Actualités'
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True

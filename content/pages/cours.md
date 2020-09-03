@@ -4,13 +4,13 @@ page-order: 2
 # Cours débutant / intermédiaire
 
 Le cours débutant/intermédiaire est un cours dédié aux nouvelleaux danseureuses souhaitant apprendre le Rock 4 Temps. 
-Les bases techniques ainsi que de nombreuses passes de danse y sont enseignées. 
+Les bases techniques ainsi que de nombreuses passes y sont enseignées. 
 Chaque séance est une occasion de découvrir de nouvelles notions et de nouveaux mouvements. Les cours débutent fin septembre et progressent en difficulté au long de l’année académique. Ils sont doublés de sessions permettant de (re)voir les bases au second semestre et de rejoindre le club en cours d’année. 
 
 Le cours débutant et intermédiaire est donné par [Théo](/theo.html) et [Claire](/claire.html).
 
 Pour suivre les cours débutants et intermédiaires, il faut d'abord 
-[adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/). 
+[adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/)*. 
 Il n'y a pas de coût supplémentaire.
 
 Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS (les autres, suivez le lien !) :
@@ -73,7 +73,7 @@ Le cours de Perfectionnement 4 Temps est donné par [Léa](/lea.html),
 
 Ce cours requiert :
 
- * [D'adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/). 
+ * [D'adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/)*. 
  * Le paiement d’une cotisation supplémentaire à celle du BDS :
 
 <div class="row">
@@ -151,3 +151,11 @@ Ces ateliers sont ouverts à toustes les danseureuses ayant les bases de cette d
 - “Chorégraphies !” (conseils, exercices, retours personnalisés)
 - “Listen to your partner”
 - “Le sol est votre ami !”
+
+# * Cotisation BDS
+
+La cotisation au Bureau des Sports de l'ENS donne aussi accès à d’autres cours de dans ou de sport à l’ENS (voir sur le site du BDS).
+
+Tout le monde a le droit à deux séances d’essai gratuites, après lesquelles il faut obligatoirement adhérer au BDS. 
+
+Cette cotisation vous donne accès au cours débutant/intermédiaire, aux soirées, aux ateliers et aux coachings.
