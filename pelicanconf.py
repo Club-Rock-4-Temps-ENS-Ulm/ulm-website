@@ -11,6 +11,7 @@ else :
 
 
 AUTHOR = 'R4T ENS Ulm'
+copy_date = 2020
 SITENAME = 'Club Rock 4 Temps ENS Ulm'
 
 SITELOGO = 'images/logo4tps_blanc.png'

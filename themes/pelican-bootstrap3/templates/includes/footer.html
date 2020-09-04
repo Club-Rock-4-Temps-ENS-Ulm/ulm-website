@@ -1,54 +1,159 @@
 <footer id="footer">
-   <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-      <br>
-      <div class="row">
-         {% if articles %}
-           {% if articles[0].modified %}
-             {% set copy_date = articles[0].modified.strftime('%Y') %}
-           {% else %}
-             {% set copy_date = articles[0].date.strftime('%Y') %}
-           {% endif %}
-         {% else %}
-            {% set copy_date = '' %}
-         {% endif %}
-         <div class="col-xs-9">
-             <center>
-                <span id="club"><a href="{{ SITEURL }}">Club</a></span>
-                <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm">
-                   <img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                </a>
-                <a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
-                    <img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                </a>
-                 <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g">
-                     <img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                 </a>
-             <br />
-                 <div style="margin-top:1em; margin-bottom: 1em" >
-                 <span id="p4t"><a href="{{ SITEURL }}/pages/p4t.html">&middot; P4T</a></span>
-                 <a href="https://www.instagram.com/printemps4temps/">
-                     <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                 </a>
-                 <a href="https://www.facebook.com/Printemps4Temps/ ">
-                     <img src="{{ SITEURL }}/images/fb_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                 </a>
-                 <a href="https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw ">
-                     <img src="{{ SITEURL }}/images/yt_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                 </a>
-                 </div>
-             </center>
+  <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+    <br>
 
-             &copy; {{ copy_date }} {{ AUTHOR }}. {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+    <!-- Footer -->
+    <footer class="page-footer font-small blue pt-4">
+
+      <!-- Footer Links -->
+      <div class="container-fluid text-center text-md-left">
+
+        <!-- Grid row -->
+        <div class="row" style>
+
+          <!-- Grid column -->
+          <div class="col-md-6 mt-md-0 mt-3">
+
+            <hr class="clearfix pt-0 pb-0">
+
+            <!-- Content -->
+            <p> Site du club de Rock 4 Temps de l'ENS Ulm </p>
+            <p>Développé par <a style="color:#f4aa11;" href="https://www.laure.daumal.com">Laure Daumal.</a>
+              <br  />
+            {{ _('Basé sur') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-            {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
-              {% from 'includes/cc-license.html' import cc_license_mark %}
-                <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL,'lang':DEFAULT_LANG}) }}</small></p>
-            {% elif CUSTOM_LICENSE %}
-              <p><small>{{ CUSTOM_LICENSE }}</small></p>
-            {% endif %}
-         </div>
-         <div class="col-xs-3"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">{{ _('Back to top') }}</a></p></div>
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>.<p/>
+
+          </div>
+          <!-- Grid column -->
+
+          <!-- <hr class="clearfix w-100 d-md-none pb-3"> -->
+
+          <!-- Grid column -->
+          <div class="col-md-3 mb-md-0 mb-3">
+
+            <!-- Links 1 : Club -->
+            <h5 class="text-uppercase">Club ENS Ulm</h5>
+
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm">
+                  <img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                  Github
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
+                  <img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                    Facebook
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g">
+                  <img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                    YouTube
+                </a>
+              </li>
+            </ul>
+
+          </div>
+          <!-- Grid column -->
+          <!-- Grid column -->
+          <div class="col-md-3 mb-md-0 mb-3">
+
+            <!-- Links 2 : P4T -->
+              <span id="p4t">
+            <a href="{{ SITEURL }}/pages/p4t.html"><h5 class="text-uppercase">Printemps 4 Temps</h5></a>
+              </span>
+
+            <ul class="list-unstyled">
+              <li>
+                <a href="https://www.instagram.com/printemps4temps/">
+                  <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                    Instagram
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/Printemps4Temps/ ">
+                  <img src="{{ SITEURL }}/images/fb_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                    Facebook
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw ">
+                  <img src="{{ SITEURL }}/images/yt_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                    YouTube
+                </a>
+              </li>
+            </ul>
+
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
       </div>
+      <!-- Footer Links -->
+
+      <!-- Copyright -->
+      <div class="footer-copyright text-center py-3">&copy; {{ copy_date }} {{ AUTHOR }}.
+      </div>
+      <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
+
+    <!--
+   <div class="row">
+      {% if articles %}
+        {% if articles[0].modified %}
+          {% set copy_date = articles[0].modified.strftime('%Y') %}
+        {% else %}
+          {% set copy_date = articles[0].date.strftime('%Y') %}
+        {% endif %}
+      {% else %}
+         {% set copy_date = '' %}
+      {% endif %}
+      <div class="col-xs-9">
+          <center>
+             <span id="club"><a href="{{ SITEURL }}">Club</a></span>
+             <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm">
+                <img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+             </a>
+             <a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
+                 <img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+             </a>
+              <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g">
+                  <img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+              </a>
+          <br />
+              <div style="margin-top:1em; margin-bottom: 1em" >
+              <span id="p4t"><a href="{{ SITEURL }}/pages/p4t.html">&middot; P4T</a></span>
+              <a href="https://www.instagram.com/printemps4temps/">
+                  <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+              </a>
+              <a href="https://www.facebook.com/Printemps4Temps/ ">
+                  <img src="{{ SITEURL }}/images/fb_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+              </a>
+              <a href="https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw ">
+                  <img src="{{ SITEURL }}/images/yt_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+              </a>
+              </div>
+          </center>
+
+          &copy; {{ copy_date }} {{ AUTHOR }}. {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+         <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+         <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+         {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
+           {% from 'includes/cc-license.html' import cc_license_mark %}
+             <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL,'lang':DEFAULT_LANG}) }}</small></p>
+         {% elif CUSTOM_LICENSE %}
+           <p><small>{{ CUSTOM_LICENSE }}</small></p>
+         {% endif %}
+      </div>
+      <div class="col-xs-3"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">{{ _('Back to top') }}</a></p></div>
    </div>
+    -->
+  </div>
 </footer>

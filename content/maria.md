@@ -17,4 +17,7 @@ N'étant pas du genre à faire les choses qu'à moitié, elle se lance directeme
 mais surtout un paquet de shows endiablés et innombrables soirées et cours... 
 
 Et elle doit laisser de côté le 4 temps pour stages et autres besoins académiques... 
-mais pendant ce temps elle s'initie au West Coast Swing, et elle n'attends que la rentrée 2020 pour retourner à son club d'amour et y enseigner au [cours débutant / intermédaire](/pages/cours.html) ! Elle espère pouvoir transmettre son amour de la danse, montrer aux gens que plus on progresse techniquement plus on s'amuse et comment s'exprimer par la danse en tant que follower. Enfin et surtout, elle espère toujours toujours toujours... progresser!
+mais pendant ce temps elle s'initie au West Coast Swing, et elle n'attend que la rentrée 2020 pour retourner à son club d'amour et y enseigner au [cours débutant / intermédaire](/pages/cours.html) ! 
+
+Elle se fixe plusieurs objectifs : transmettre sa passion pour la danse, enseigner l'expression en danse en tant que 
+follower, et montrer que la progression technique permet de s'amuser toujours plus.
