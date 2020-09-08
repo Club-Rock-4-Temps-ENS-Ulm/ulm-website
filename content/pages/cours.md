@@ -154,7 +154,7 @@ Ces ateliers sont ouverts à toustes les danseureuses ayant les bases de cette d
 
 # * Cotisation BDS
 
-La cotisation au Bureau des Sports de l'ENS donne aussi accès à d’autres cours de dans ou de sport à l’ENS (voir sur le site du BDS).
+La cotisation au Bureau des Sports de l'ENS donne aussi accès à d’autres cours de danse ou de sport à l’ENS (voir sur le site du BDS).
 
 Tout le monde a le droit à deux séances d’essai gratuites, après lesquelles il faut obligatoirement adhérer au BDS. 
 

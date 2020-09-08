@@ -10,10 +10,10 @@ Attirée par l'expressivité et la liberté du Rock 4 Temps, elle se lance dans 
 
 N'étant pas du genre à faire les choses qu'à moitié, elle se lance directement dans tous les coachings du club et participe à tous les concours ! 
 
-* Deuxième place au concours de choré du club, 
-* première place au Jack'n'Jill du club, 
-* 4ème place au concours de choré d'Élan 4 Temps, 
-* 1ère place aux interENS en 2018, 
+* Deuxième place au concours de choré du club (juin 2018), 
+* première place au Jack'n'Jill du club (juin 2018), 
+* 1ère place aux interENS en 2018 (novembre 2018), 
+* 4ème place au concours de choré d'Élan 4 Temps (décembre 2018), 
 mais surtout un paquet de shows endiablés et innombrables soirées et cours... 
 
 Et elle doit laisser de côté le 4 temps pour stages et autres besoins académiques... 

@@ -53,7 +53,7 @@ Notre JnJ comporte plusieurs divisions. Les documents pour compétieur-rice-s po
 
 # Billeterie
 
-/!\ MàJ raisons sanitaires : l'événement de 2020 a été annulé.
+/!\ MàJ raisons sanitaires : [l'événement de 2020 a été annulé](/annulation-des-activites.html).
 
 La billetterie est accessible sur [HelloAsso](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2020).
 
