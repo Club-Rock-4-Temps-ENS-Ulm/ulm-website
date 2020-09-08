@@ -2,7 +2,7 @@ Title: Théo
 Date: 2019-09-06
 Category: Profs 
 
-![](images/theo.jpg)
+![](/images/theo.jpg)
 
 Théo commence la danse côté Swing, durant l’été 2017. De part ses errances sur les quais de Seine et un petit coup de pouce de certaines connaissances, il enchaîne les initiations au Lindy Hop à un rythme effréné durant un mois, s'assurant ainsi d'être vraiment sûr de connaître ses basiques. Après avoir pesé le pour et le contre au moins deux secondes et demi, il rejoint l'école Shake That Swing pour ses premiers cours de danse de couple.
 

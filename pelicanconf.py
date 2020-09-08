@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 development = not True
+ARTICLE_EXCLUDES = ['profs']
 
 if development:
     RELATIVE_URLS = False
@@ -54,8 +55,9 @@ CUSTOM_CSS = 'theme/css/custom.css'
 
 # Pelican Theme specials
 
-DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_CATEGORY = 'Actualités'
+
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
 HIDE_SIDEBAR = True
@@ -64,8 +66,10 @@ SLUGIFY_SOURCE = 'title'
 
 # Order content
 
+PAGE_PATHS = ['pages']
 PAGE_ORDER_BY = "page-order"
 PAGES_SORT_ATTRIBUTE = 'basename'
+
 
 # Blogroll -- not used (sidebar), but keeping it here in case it is
 LINKS = (

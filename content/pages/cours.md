@@ -7,8 +7,6 @@ Le cours débutant/intermédiaire est un cours dédié aux nouvelleaux danseureu
 Les bases techniques ainsi que de nombreuses passes y sont enseignées. 
 Chaque séance est une occasion de découvrir de nouvelles notions et de nouveaux mouvements. Les cours débutent fin septembre et progressent en difficulté au long de l’année académique. Ils sont doublés de sessions permettant de (re)voir les bases au second semestre et de rejoindre le club en cours d’année. 
 
-Le cours débutant et intermédiaire est donné par [Théo](/theo.html) et [Claire](/claire.html).
-
 Pour suivre les cours débutants et intermédiaires, il faut d'abord 
 [adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/)*. 
 Il n'y a pas de coût supplémentaire.
@@ -62,15 +60,7 @@ Le cours est fondé  sur les principes pédagogiques suivants :
 Les cours sont organisés en cycles thématiques de 2 à 4 semaines. Cette organisation permet d'alterner entre des moments où nous travaillons en profondeur sur des aspects techniques, et d’autres plus focalisés sur la musicalité ou l'apprentissage de stylings précis (jeux de jambes, de tête, de bras, isolations corporelles, etc.) que les professeur-e-s vous apprendront à bien intégrer dans votre danse. 
 
 Les cours s’adressent à toute personne ayant été active au moins un an dans la communauté du R4T (un an de cours réguliers et de soirées), qu’elle ait été initialement formée au cours débutant/intermédiaire de l’ENS ou non. Si vous avez des doutes sur votre capacité à intégrer le cours, n’hésitez pas à contacter notre équipe enseignante à l’adresse suivante : fusion4temps [at] gmail [dot] com
-
     
-Le cours de Perfectionnement 4 Temps est donné par [Léa](/lea.html), 
-[Guillaume (GdL)](/gdl.html), 
-[Héloïse](/heloise.html),
-[Guillaume (Guigui)](/guigui.html),
-[Natacha](/natacha.html), et
-[Paul](/pbk.html).
-
 Ce cours requiert :
 
  * [D'adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/)*. 
