@@ -3,14 +3,15 @@
 from __future__ import unicode_literals
 
 development = not True
-ARTICLE_EXCLUDES = ['profs']
+#ARTICLE_EXCLUDES = ['profs']
 
 if development:
     RELATIVE_URLS = False
 else :
-    SITEURL = 'http://ulm.rock4temps.fr/public/output/'
+    SITEURL = 'http://ulm.rock4temps.fr/public/'
 
 
+OUTPUT_PATH = 'public/'
 AUTHOR = 'R4T ENS Ulm'
 copy_date = 2020
 SITENAME = 'Club Rock 4 Temps ENS Ulm'
@@ -58,11 +59,17 @@ CUSTOM_CSS = 'theme/css/custom.css'
 DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_CATEGORY = 'Actualités'
 
+# Articles
+
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
 HIDE_SIDEBAR = True
 
 SLUGIFY_SOURCE = 'title'
+
+SUMMARY_MAX_LENGTH = 140
+SUMMARY_END_SUFFIX = '[…]'
+SUMMARY_END_MARKER = '[…]'
 
 # Order content
 

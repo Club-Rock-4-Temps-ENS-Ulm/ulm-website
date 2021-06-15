@@ -12,7 +12,7 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 # SITEURL = 'https://ulm.rock4temps.fr'
-SITEURL = 'http://ulm.rock4temps.fr/public/output/'
+SITEURL = 'http://ulm.rock4temps.fr/public/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

@@ -13,21 +13,6 @@ Au programme :
 * 3 divisions de Jack & Jill
 * Des shows et de nombreux cours !
 
-## Professeur-e-s
-
-Nous avons invité de nombreux.ses professeur-e-s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion :
-
-* [Alexandra et Olivier](/alexandra-et-olivier.html),
-* [Natacha et Paul](/natacha-et-paul.html),
-* [Viridiane et Adrien](/viridiane-et-adrien.html),
-* [Léa et Guillaume](/lea-et-gdl.html),
-* [Théo et Claire](/theo-et-claire.html),
-* [Sandra et Ludovic](/sandra-et-ludo.html),
-* [Albane et Philippe](/albane-et-philippe.html),
-* [Héloïse et Guillaume](/heloise-et-guigui.html),
-* [Aliénor et Yann](/alienor-et-yann.html).
-
-
 # Les compétitions
 
 Le Printemps 4 Temps (P4T) est un week-end totalement dédié à la danse. Parmi les activités que nous proposons au cours du week-end : les compétitions. 
@@ -50,10 +35,27 @@ Notre JnJ comporte plusieurs divisions. Les documents pour compétieur-rice-s po
 
 *La liste des membres du jury sera ajoutée un mois avant l’événement.*
 
+# Édition 2020
 
-# Billeterie
+![](/images/p4t_report.png)
 
-/!\ MàJ raisons sanitaires : [l'événement de 2020 a été annulé](/annulation-des-activites.html).
+## Professeur-e-s
+
+Nous avons invité de nombreux.ses professeur-e-s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion :
+
+* [Alexandra et Olivier](/alexandra-et-olivier.html),
+* [Natacha et Paul](/natacha-et-paul.html),
+* [Viridiane et Adrien](/viridiane-et-adrien.html),
+* [Léa et Guillaume](/lea-et-gdl.html),
+* [Théo et Claire](/theo-et-claire.html),
+* [Sandra et Ludovic](/sandra-et-ludo.html),
+* [Albane et Philippe](/albane-et-philippe.html),
+* [Héloïse et Guillaume](/heloise-et-guigui.html),
+* [Aliénor et Yann](/alienor-et-yann.html).
+
+## Billeterie
+
+/!\ MàJ raisons sanitaires : [l'événement de 2020 a été reporté](/annulation-des-activites.html).
 
 La billetterie est accessible sur [HelloAsso](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2020).
 

@@ -42,14 +42,14 @@ h3, h5
 }
 
 .container .summary img {
-    max-height: 30em;
+    max-height: 20em !important;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .entry-content img {
-    max-height: 50em;
+    max-height: 35em !important;
     display: block;
     margin-left: auto;
     margin-right: auto;

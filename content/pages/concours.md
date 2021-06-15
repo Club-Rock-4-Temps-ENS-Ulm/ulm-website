@@ -52,6 +52,8 @@ Les vidéos individuelles pour chaque couple de participant-e-s :
 
 * 2ème place : [Albane Desseaux](/albane-et-philippe.html) et Lorenzo Falconieri
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_LEzr9oJqo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * 3ème place : Justine Gadon-Ferreira et [Yann Lopez](/alienor-et-yann.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HsxO-I78usE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
