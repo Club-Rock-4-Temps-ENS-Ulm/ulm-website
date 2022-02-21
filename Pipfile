@@ -10,6 +10,8 @@ pelican = "*"
 markdown = "*"
 typogrify = "*"
 pygments = "*"
+python-gettext = "*"
+pelican-jinja2content = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3"
