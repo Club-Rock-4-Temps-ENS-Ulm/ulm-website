@@ -23,6 +23,9 @@ pipenv install
 
 ```
 git clone https://github.com/getpelican/pelican-plugins
+mv pelican-plugins plugins
+mkdir data
+mv plugins data/ 
 ```
 
 ## Generate / serve
@@ -46,6 +49,5 @@ If you’d prefer to have Pelican automatically regenerate your site every time 
 Normally you would need to run make regenerate and make serve in two separate terminal sessions, but you can run both at once via:
 
 `make devserver`
-
 
 Read more documentation on [Pelican doc](https://docs.getpelican.com/en/3.1.1/getting_started.html)
