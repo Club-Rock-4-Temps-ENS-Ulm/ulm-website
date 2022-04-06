@@ -1,7 +1,7 @@
 Title: P4T
 page-order: 9
 
-![](/images/p4t_2022.png)
+![](/public/images/p4t_2022.png)
 
 # Présentation
 
@@ -52,9 +52,9 @@ Important : l’inscription au Jack’n’Jill est possible quel que soit le Pas
 
 L’inscription et le paiement des billets se font à travers la billetterie en ligne HelloAsso, permettant un paiement sécurisé. Au moment de l’inscription, tu devras choisir entre le Party Pass et le Full Pass (et dans ce second cas, indiquer la formule de cours que tu veux suivre) et effectuer le paiement.
 
-La billetterie ouvre le mardi 22 février à 19h, un lien sera alors disponible ici.
+La billetterie est **ouverte**, c'est [par ici](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2022) !
 
-Attention, les places sont limitées, donc ne rate pas le coche ! De plus, si tu achètes un Full Pass avant le 22 mars, tu pourras bénéficier d’un tarif « Early Bird » réduit !
+Attention, les places sont limitées, donc ne rate pas le coche ! De plus, si tu achètes un Full Pass avant le **22 mars**, tu pourras bénéficier d’un tarif « Early Bird » réduit !
 
 <div class="row">
   <div class="col-sm-5">
@@ -106,36 +106,41 @@ Attention, les places sont limitées, donc ne rate pas le coche ! De plus, si tu
   </div>
 </div>
 
+
+
 \* *Les adhérent-es au BDS de l’ENS Ulm bénéficieront d’une réduction de 20% sur ces tarifs, en envoyant un mail avec la photo de leur carte BDS dans la semaine qui suit le paiement à printemps4temps[at]gmail[dot]com*
 
 # Compétition
 
 ## Le format Jack’n’Jill
 
-Le Printemps 4 Temps est l’occasion de participer à une compétition au format Jack’n’Jill. Les compétiteurs et compétitrices s’inscrivent individuellement en tant que leader ou follower. A chaque étape de la compétition, iels sont apparié-e-s aléatoirement avec une personne du rôle complémentaire et dansent sur une musique tirée au sort… une compétition sociale et conviviale où chacun-e peut donner le meilleur de soi ! 
+Le Printemps 4 Temps est l’occasion de participer à une compétition au format **Jack’n’Jill**. Les compétiteurs et compétitrices s’inscrivent individuellement en tant que leader ou follower. A chaque étape de la compétition, iels sont apparié-e-s aléatoirement avec une personne du rôle complémentaire et dansent sur une musique tirée au sort… une compétition sociale et conviviale où chacun-e peut donner le meilleur de soi ! 
 
 ## Inscription
 
-L’inscription pour les compétitions ouvrira le 15 mars, et se fera à travers un formulaire d’inscription en ligne. Tu devras alors indiquer la ou les divisions auxquelles tu veux participer, et dans quel rôle. Le règlement et le lien d’inscription seront rendus disponibles le 15 mars.
+L’inscription pour les compétitions est ouverte !
+
+* [Formulaire d'inscription](https://forms.gle/vCS23sVUzyS8V8qY6)
+* [Règlement des compétitions](https://drive.google.com/file/d/1xsrvDWb4HGRlpBloOoy5mCrMm_w2-Si5/view)
 
 ## Divisions
 
 Il y aura deux divisions de compétition ouvertes à tou-te-s les participant-e-s, quel que soit le Pass choisi. Chaque personne ne peut s’inscrire qu’à une seule division avec un rôle donné, pour lequel s’appliquent les critères suivants:
 
-* Division initiée : tout le monde peut participer à cette division, à l’exception :
+* **Division initiée** : tout le monde peut participer à cette division, à l’exception :
 	- Des finalistes de l’édition 2019 du P4T en division confirmée
 	- Des danseur-euses invité-es à rejoindre le P4T en division invitée lors de l’édition actuelle ou par le passé 
-* Division intermédiaire : Les personnes citées ci-dessus sont bienvenues dans cette division ! Par ailleurs, si tu as commencé le rock 4 temps avant mars 2020, tu peux tenter ta chance dans cette division. Dans ce cas, nous te conseillons quand même de privilégier la division initiée si tu n’as pas l’habitude des compétitions.  
+* **Division intermédiaire** : Les personnes citées ci-dessus sont bienvenues dans cette division ! Par ailleurs, si tu as commencé le rock 4 temps avant mars 2020, tu peux tenter ta chance dans cette division. Dans ce cas, nous te conseillons quand même de privilégier la division initiée si tu n’as pas l’habitude des compétitions.  
 
 Pourquoi deux divisions ? Cela permet de valoriser le travail des jeunes danseurs et danseuses en leur donnant un espace privilégié pour briller et récompenser ainsi leurs efforts ! De plus, cela permet aux personnes de chaque division de danser avec des gens d’un niveau plus homogène et similaire au leur, et donc de pouvoir donner le meilleur de soi-même.
 
-En plus de ces divisions, une division invitée sera l’occasion de voir les professeur-e-s du P4T 2022 se donner à l’exercice du Jack’n’Jill dans la bonne ambiance : des rires et des étoiles dans les yeux garantis ! 
+En plus de ces divisions, une **division invitée** sera l’occasion de voir les professeur-e-s du P4T 2022 se donner à l’exercice du Jack’n’Jill dans la bonne ambiance : des rires et des étoiles dans les yeux garantis ! 
 
 # Jury
 
-Qui dit compétition dit juges: leur identité sera bientôt dévoilée, restez à l'affût !
+Qui dit compétition dit juges : leur identité sera bientôt dévoilée, restez à l'affût !
 
-## Mesures Covid
+# Mesures Covid
 
 L’association Printemps 4 Temps tient à ce que cet événement se déroule dans des conditions sûres et préservant la santé de toustes. Dans le contexte sanitaire actuel, nous nous engageons à respecter les mesures sanitaires en place au moment de l'événement. Ce protocole est donc susceptible d’évoluer selon les directives gouvernementales et la progression de l’épidémie, notamment :
 
@@ -145,8 +150,4 @@ L’association Printemps 4 Temps tient à ce que cet événement se déroule da
 * L’accès à l’évènement pourra être soumis à la vérification du pass sanitaire.
 * Les participant-e-s recevront un mail avec les consignes sanitaires détaillées quelques jours avant l’événement.
 
-# Édition 2020
-
-![](/images/p4t_report.png)
-
-![logo](/images/p4t.svg)
+![logo](/public/images/p4t.svg)
