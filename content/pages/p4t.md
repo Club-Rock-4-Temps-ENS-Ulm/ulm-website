@@ -9,9 +9,9 @@ Le Printemps 4 Temps, P4T pour les intimes, est un évènement de rock 4 temps :
 
 Cet évènement unique en son genre dans la scène du rock 4 temps a lieu à l’ENS Ulm (Paris, 5ème), et il reprend cette année pour une nouvelle édition !
 
-L’édition 2022 du Printemps 4 Temps aura lieu du **27 au 29 mai**. Tu veux plus de détails sur le déroulement du week-end ? Le programme sera disponible le 1er mai !
+L’édition 2022 du Printemps 4 Temps aura lieu du **27 au 29 mai**. 
 
-Cette année, pas moins que 8 **couples de professeur-e-s** seront là pour transmettre leur savoir et leur passion ! 
+Cette année, pas moins que 8 **couples de professeur-e-s** seront là pour transmettre leur savoir et leur passion !
 
 * Irène & Théo, María & Pierre
 * Mathilde & Paul
@@ -20,6 +20,12 @@ Cette année, pas moins que 8 **couples de professeur-e-s** seront là pour tran
 * Aliénor & Yann
 * Léa & Guillaume
 * Claire & Guigui
+
+## Planning
+
+Tu veux plus de détails sur le déroulement du week-end ? Son programme est maintenant disponible :
+
+![](/public/images/1-VENDREDI.png) ![](/public/images/2-SAMEDI.png) ![](/public/images/3-DIMANCHE.png)
 
 Si tu veux être au courant de la préparation de l’évènement et ne rater aucune info, ou te mettre l’eau à la bouche avec des souvenirs de l’édition précédente, tu pourras nous trouver sur :
 
@@ -136,9 +142,33 @@ Pourquoi deux divisions ? Cela permet de valoriser le travail des jeunes danseur
 
 En plus de ces divisions, une **division invitée** sera l’occasion de voir les professeur-e-s du P4T 2022 se donner à l’exercice du Jack’n’Jill dans la bonne ambiance : des rires et des étoiles dans les yeux garantis ! 
 
-# Jury
+## Jury
 
-Qui dit compétition dit juges : leur identité sera bientôt dévoilée, restez à l'affût !
+Qui dit compétition dit juges ! Le Printemps 4 Temps s’engage à mettre en place un jury paritaire et diversifié, avec 
+autant de juges leader et follower et des représentants des différentes écoles parisiennes. Voici le panel de choc pour 
+l’édition 2022 : 
+
+Présidente du Jury: 
+
+* Léa
+
+Division initiée :
+
+* AiMy
+* Guillaume de Gaulle 
+* Claire
+* Paul
+* Mathilde 
+* Pierre
+
+Division Intermédiaire :
+
+* Gabija 
+* Adrien
+* Héloise 
+* Guillaume de Longuemar
+* Lucile 
+* Philippe
 
 # Mesures Covid
 
