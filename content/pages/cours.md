@@ -22,7 +22,7 @@ Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS (les autr
         <h4 class="my-0 font-weight-normal">Semestre (exté)</h4>
       </div>
       <div class="card-body">
-        <h2 class="card-title pricing-card-title">40€ <small class="text-muted">/ semestre</small></h2>
+        <h2 class="card-title pricing-card-title">45€ <small class="text-muted">/ semestre</small></h2>
       </div>
     </div>
     </div>
@@ -35,7 +35,7 @@ Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS (les autr
         <h4 class="my-0 font-weight-normal">Année (exté)</h4>
       </div>
       <div class="card-body">
-        <h2 class="card-title pricing-card-title">60€ <small class="text-muted">/ année</small></h2>
+        <h2 class="card-title pricing-card-title">70€ <small class="text-muted">/ année</small></h2>
       </div>
     </div>
     </div>
